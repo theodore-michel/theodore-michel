@@ -1,5 +1,4 @@
 <div align="center">
-
 # Hi, I'm Théodore ☀️⛰️
 
 **Postdoctoral Researcher** · [Physics of Fluids, University of Twente](https://pof.tnw.utwente.nl/)<br>
@@ -10,7 +9,6 @@ Fluid dynamics × machine learning × high-performance computing
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1d5fa8?style=flat-square)](https://www.linkedin.com/in/theodore-michel-bb0192174)
 [![ORCID](https://img.shields.io/badge/ORCID-1d5fa8?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-1161-7337)
 [![Email](https://img.shields.io/badge/Email-e8743b?style=flat-square&logo=maildotru&logoColor=white)](mailto:theodore.michel@utwente.nl)
-
 </div>
 
 ### 🔬 Currently working on
@@ -19,12 +17,13 @@ Fluid dynamics × machine learning × high-performance computing
 - **Graph-DRL**: graph neural networks + deep reinforcement learning for flow surrogates and control
 - **[ONECYL](https://arxiv.org/abs/2609.08947)**: a benchmark for graph-based surrogate models of unsteady flows
 
+<!--
 ### 📄 Selected works
 
 - [Combining machine learning and CFD for solar panel tilt angle optimization in extreme winds](https://doi.org/10.1063/5.0233709) · *Physics of Fluids*, 2024
 - [Towards a Digital Twin of a Solar Power Plant](https://hal.science/tel-05675293) · PhD thesis, Université PSL, 2026
-
-### 🌱 Learning
+-->
+### 🌱 Learning about
 - Ultrasound and medical imaging techniques for patient-specific treatments
 - JAX for fully differentiable pipelines
 
