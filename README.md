@@ -1,5 +1,9 @@
 <div align="center">
-# Hi, I'm Théodore ☀️⛰️
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.gif">
+  <img src="assets/header-light.gif" alt="Hi, I'm Théodore ☀️⛰️ (a pixel-art cyclist riding over the title)" width="100%">
+</picture>
 
 **Postdoctoral Researcher** · [Physics of Fluids, University of Twente](https://pof.tnw.utwente.nl/)<br>
 Fluid dynamics × machine learning × high-performance computing
@@ -9,6 +13,7 @@ Fluid dynamics × machine learning × high-performance computing
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1d5fa8?style=flat-square)](https://www.linkedin.com/in/theodore-michel-bb0192174)
 [![ORCID](https://img.shields.io/badge/ORCID-1d5fa8?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-1161-7337)
 [![Email](https://img.shields.io/badge/Email-e8743b?style=flat-square&logo=maildotru&logoColor=white)](mailto:theodore.michel@utwente.nl)
+
 </div>
 
 ### 🔬 Currently working on
@@ -26,7 +31,6 @@ Fluid dynamics × machine learning × high-performance computing
 ### 🌱 Learning about
 - Ultrasound and medical imaging techniques for patient-specific treatments
 - JAX for fully differentiable pipelines
-
 ### 🛠️ Toolbox
 
 ![Python](https://img.shields.io/badge/Python-1f2328?style=flat-square&logo=python&logoColor=white)
