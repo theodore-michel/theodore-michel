@@ -18,7 +18,7 @@ Fluid dynamics × machine learning × high-performance computing
 
 ### 🔬 Currently working on
 
-- **4D-Flow**: reconstructing blood flow from contrast-enhanced ultrasound imaging with deep learning
+- **4D-Flow**: reconstructing vascular flow from contrast-enhanced ultrasound imaging with deep learning
 - **Graph-DRL**: graph neural networks + deep reinforcement learning for flow surrogates and control
 - **[ONECYL](https://arxiv.org/abs/2609.08947)**: a benchmark for graph-based surrogate models of unsteady flows
 
