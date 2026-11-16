@@ -16,23 +16,21 @@ Fluid dynamics × machine learning × high-performance computing
 
 </div>
 
-### 🔬 Currently working on
-
+### Currently working on
 - **4D-Flow**: reconstructing vascular flow from contrast-enhanced ultrasound imaging with deep learning
 - **Graph-DRL**: graph neural networks + deep reinforcement learning for flow surrogates and control
 - **[ONECYL](https://arxiv.org/abs/2609.08947)**: a benchmark for graph-based surrogate models of unsteady flows
-
 <!--
-### 📄 Selected works
+### Selected works
 
 - [Combining machine learning and CFD for solar panel tilt angle optimization in extreme winds](https://doi.org/10.1063/5.0233709) · *Physics of Fluids*, 2024
 - [Towards a Digital Twin of a Solar Power Plant](https://hal.science/tel-05675293) · PhD thesis, Université PSL, 2026
 -->
-### 🌱 Learning about
+### Learning about
 - Ultrasound and medical imaging techniques for patient-specific treatments
 - JAX for fully differentiable pipelines
-### 🛠️ Toolbox
 
+### Toolbox
 ![Python](https://img.shields.io/badge/Python-1f2328?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1f2328?style=flat-square&logo=pytorch&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-1f2328?style=flat-square&logo=cplusplus&logoColor=white)
